@@ -1,2 +1,2 @@
 #!/bin/bash
-head wc -l 
+head wc ls -1t | head -10 
