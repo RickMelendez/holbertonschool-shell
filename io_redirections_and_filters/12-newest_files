@@ -1,2 +1,2 @@
 #!/bin/bash
-head wc ls -1t | head -10 
+ls -Art | tail -n 1 
